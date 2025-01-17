@@ -17,8 +17,8 @@ This is a simple **FastAPI** application that allows users to upload, download, 
 
 1. Clone the repository:
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone https://github.com/sideekickk/File-Upload-and-Download-API
+    cd File-Upload-and-Download-API
     ```
 
 2. Install the dependencies:
